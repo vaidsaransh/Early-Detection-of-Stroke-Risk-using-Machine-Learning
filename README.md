@@ -1,5 +1,17 @@
 # Early-Detection-of-Stroke-Risk-using-Machine-Learning
 
+# Project Title: Stroke Risk Prediction with Machine Learning
+
+# Project Highlights:
+
+- Dataset preprocessing and feature engineering
+- Exploratory data analysis to gain insights into the dataset
+- Building and evaluating machine learning models for stroke risk prediction
+- Performance comparison of different algorithms
+- Implementation of a predictive functionality for new data
+- Visualizations to analyze and present the results
+
+# Step-wise explanation
 
 In this Python project, I focused on developing a machine learning model to predict the risk of stroke based on various features. The main goal was to accurately identify individuals who are at higher risk of experiencing a stroke, enabling proactive healthcare interventions.
 To begin, I started by preprocessing the data. I utilized the pandas library to read the dataset from a CSV file called 'healthcare.csv'. 
